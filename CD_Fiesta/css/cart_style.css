@@ -1,0 +1,16 @@
+#checkout {
+    background: #026a84;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+
+    border: 0px;
+    margin-left:300px;
+    background: -webkit-linear-gradient(top,#00aac9, #026a84);
+}
+
+#checkout:hover {
+    color: #ffffff;
+    background: #026a84;
+    text-shadow: 1px 1px #ffffff;
+}
